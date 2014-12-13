@@ -5,8 +5,7 @@ Modern HTML5 Touch Kiosk App for Museums*
 
 *Automatically resizes the background with the pins according to ratio of the kiosk machine. Works better on 16:9 (1920x1080)
 
-Based on Video.js, BIGVideo.js and Modernizr.js and jQuery.easing (opensourced), merged with iMapper.js (licenced)
-Chrome Kiosk Mode is also used to make the kiosk machine lock on fullscreen. (ALT+F4 to quit.)
+Based on Video.js, BigVideo.js and Modernizr.js and jQuery.easing (opensource), merged with iMapper.js (licenced-not included), Chrome Kiosk Mode is also used to make the kiosk machine lock on fullscreen. (ALT+F4 to quit.)
 
 All source code is open sourced except iMapper, which was licenced for one time in this project.
 Assets are not open sourced and they belong to me and other respective copyright owners.
