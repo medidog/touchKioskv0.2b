@@ -2,6 +2,7 @@ touchKioskv0.2b
 ==============
 
 Modern HTML5 Touch Kiosk App for Museums*
+https://medidog.github.io/portfolio/interactive/touchKioskv0.2b/build/begin-screen.html
 
 *Automatically resizes the background with the pins according to ratio of the kiosk machine. Works better on 16:9 (1920x1080)
 
